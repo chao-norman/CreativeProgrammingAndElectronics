@@ -8,7 +8,7 @@ In terms of using Processing for the first time and any difficulties I encounter
 
 ![](portrait.png)
 
-Credits:
+**Credits:**
 
 I used references for shapes and built-in functions listed in the Processing references page:
 [Processing Reference Page](https://processing.org/reference/)
