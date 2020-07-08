@@ -2,8 +2,9 @@
 My inspiration for this drawing:
  - I wanted to draw me and my partner's first home together (we just moved in together recently!)
  - The backdrop I chose was our living room and couch, with us sitting together on the couch
- - I looked up a lot of the tools on the Processing reference site: https://processing.org/reference/ , because I wanted to make my portrait a bit more 3D
- - I also used google's RGB color picker to find my colors: https://www.google.com/search?q=rgb+color+picker&rlz=1C1CHBF_enUS887US887&oq=rgb+color+picker&aqs=chrome.0.0l8.1836j0j7&sourceid=chrome&ie=UTF-8
+ - I looked up a lot of the tools on the Processing reference site: https://processing.org/reference/
+ - I also used google's RGB color picker to find my colors: 
+ https://www.google.com/search?q=rgb+color+picker&rlz=1C1CHBF_enUS887US887&oq=rgb+color+picker&aqs=chrome.0.0l8.1836j0j7&sourceid=chrome&ie=UTF-8
 */
 
 
