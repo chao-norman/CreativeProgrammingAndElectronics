@@ -1,4 +1,4 @@
-# Here is the portrait I made on Processing!
+## Self-Portrait Assignment
 
 #### Description of Environment and Importance to me:
 
