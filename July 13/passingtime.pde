@@ -3,7 +3,7 @@
  - I took inspiration from the example we discussed in class with the colored bar
  that rotated clockwise while switching colors. 
  - This program extends off of that particular example from class, where we learned
- about the frameCount built-in function.
+ about the frameCount system variable.
  - This program fills the screen with clocks that tick 0.5 times slower than an 
  actual clock. This is supposed to represent how time may have felt like it slowed 
  down during this shelter-in-place due to the fatige everyone is feeling from 
