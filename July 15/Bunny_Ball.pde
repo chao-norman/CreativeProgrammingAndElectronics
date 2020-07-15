@@ -189,8 +189,8 @@ void updateBunnies() {
       bunny.drawBunny();
     } else {
       // moving them off the canvas so they aren't an invisible obstacle
-      bunny.bunnyX = -1000;
-      bunny.bunnyY = -1000;
+      bunny.bunnyX = -99999999;
+      bunny.bunnyY = -99999999;
     }
   }
 }
