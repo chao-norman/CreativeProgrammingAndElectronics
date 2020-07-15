@@ -64,12 +64,12 @@ class Bunny {
     bunnyY += ySpd;
 
     // if bunny goes off canvas on x-plane, turn it around
-    if (bunnyX < 0 || bunnyX > width) {
+    if (bunnyX < 0 || bunnyX + bunnyWidth > width) {
       xSpd *= -1;
     }
 
     // if bunny goes off canvas on y-plane, turn it around
-    if (bunnyY < 0 || bunnyY > height) {
+    if (bunnyY < 0 || bunnyY + bunnyHeight > height) {
       ySpd *= -1;
     }
   }
