@@ -74,6 +74,7 @@ class Ball {
     }
     if (ballDir == "left") {
       xSpd *= -1;
+      ySpd *= 0;
     }
   }
 
