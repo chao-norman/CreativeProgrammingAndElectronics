@@ -19,7 +19,7 @@
  https://petermilko.itch.io/pixel-petes-art-assets
  - I used hassekf's grass background which is free to use in any game!
  https://opengameart.org/content/tower-defense-grass-background
- - I didn't know how to capture diagonal movement, so I googled it and came up with this solution!
+ - I didn't know how to capture diagonal movement, so I googled it and found this solution!
  https://stackoverflow.com/questions/38804901/how-to-make-my-player-move-in-diagonal-lines-and-horizontal-lines
  
  */
