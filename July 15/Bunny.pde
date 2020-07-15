@@ -26,7 +26,7 @@ class Bunny {
     float coinFlipX = random(-1, 1);
     float coinFlipY = random(-1, 1);
     if (coinFlipX <= 0) {
-      xSpd *= 1;
+      xSpd *= -1;
     }
     if (coinFlipY <= 0) {
       ySpd *= -1;
