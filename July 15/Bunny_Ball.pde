@@ -82,7 +82,7 @@ void setup() {
 
   // Set font for scoreboard
   font = createFont("YU Gothic UI Bold", 32);
-
+  
   // Set player health back to 100
   playerHealth = 100;
 
@@ -287,7 +287,10 @@ void nextStage() {
   if (enemyNum % 5 == 0) {
     playerSpd++;
   }
-  setup();
+  // Set player health back to 100
+  playerHealth = 100;
+  // Load enemies for start of next round
+  loadBunnies();
 }
 
 // ends the game
