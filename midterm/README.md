@@ -42,7 +42,10 @@ For my midterm assignment, I wanted to improve on the game that I made for the J
 
 * Please take a look at the file "timeline_credits_todos.txt"  for a complete list of credits! I listed every source that I used to make this project in there, along with the relevant links. I don't take credit for the creation of any of these free-to-use assets and I'm incredibly grateful to the people who made these assets available for use for anyone! 
 
-##### Below is a short video of my project at this point in time. If you want to play the game locally on your own computer, feel free to download the files! Just make sure you set the correct paths for the sprites and sounds in entityLoad.pde. Feel free to reach out to me if you're running into trouble!
+
+##### Below is a short video of my project at it's current stage. Please click the img to be redirected to the Youtube video!
+
+* If you want to play the game locally on your own computer, feel free to download the files! Just make sure you set the correct paths for the sprites and sounds in entityLoad.pde. Feel free to reach out to me if you're running into trouble!
 
 [![Bunny Ball Demo Video](https://img.youtube.com/vi/u8eQWEGfWyU/0.jpg)](https://youtu.be/u8eQWEGfWyU)
 
