@@ -1,0 +1,39 @@
+ /*
+ Timelog:
+ - [7/15/20] For now I'm only implementing the player throwing balls and bunnies just running around. I'll
+ work on the bunnies throwing the balls in the future when I have more time (and mental capacity).
+ - [7/19/20] Updated menu GUI, added pause functionality, added additional enemy that shoots projectiles,
+added health bars, added sound bytes to in-game interactions, added background music, added menu music, added
+retry feature when you lose the game, added high score counter, updated enemy spawning algorithm, 
+ORGANIZED METHODS INTO INDIVIDUAL .pde FILES!!
+ 
+ Credits:
+ 1) I used Pixel Pete's Art Assets which are free to use in anyone's games!
+https://petermilko.itch.io/pixel-petes-art-assets
+ 2) I used hassekf's grass background which is free to use in any game!
+https://opengameart.org/content/tower-defense-grass-background
+ 3) I didn't know how to capture diagonal movement, so I googled it and found this solution!
+https://stackoverflow.com/questions/38804901/how-to-make-my-player-move-in-diagonal-lines-and-horizontal-lines
+ 4) The background music is from Youtube user Hazel Nut who provided this Royalty Free, copyright free music. Thank you!
+https://www.youtube.com/watch?v=_VZe85JMQVQ
+ 5) The menu music is from Youtube user Melon Farmer Music, who provided this royalty free music. Thank you!
+https://www.youtube.com/watch?v=VDJ6tHlgZQ4
+ 6) The title screen logo for the game was made by my partner Lily! She drew it up really quickly for me to use. Thank you!
+ 7) The player damage taken sound is the damage sound from Minecraft (uploaded by Sound Effects Crazy on Youtube). 
+I downloaded the .mp3 sound byte from this Youtube link.
+https://www.youtube.com/watch?v=nbONxjyiVj4
+ 8) The enemy hit sound is a Bamboo Hit sound byte by Sound Library on Youtube. 
+https://www.youtube.com/watch?v=2piHp98vHfo
+ 9) The ball thrown sound effect is by Yung Jeezy on Youtube. 
+https://www.youtube.com/watch?v=SKTkLyAduP0
+ 10) The ball reload sound effect is a sound effect from Final Fantasy XIV. I clipped the sound byte from this Youtube video 
+by LtCook here:
+https://www.youtube.com/watch?v=EPhAS5sTXeY
+ */
+
+ To Do:
+- fix bunny rarely spawning on top of player
+- add new enemies
+- add new power-ups
+
+
