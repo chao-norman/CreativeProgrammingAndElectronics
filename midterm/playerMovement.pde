@@ -10,7 +10,7 @@ public void mousePressed() {
     if (mouseX > width/2 - buttonWidth/2 && 
       mouseX < width/2 + buttonWidth/2 && 
       mouseY > height-(height/4) - buttonHeight/2 && 
-      mouseY < height-(height/4) + buttonHeight/2 &
+      mouseY < height-(height/4) + buttonHeight/2 &&
       playerHealth <= 0) {
 
       playButtonHit = true;
