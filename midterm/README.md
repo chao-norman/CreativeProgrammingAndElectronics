@@ -44,5 +44,5 @@ For my midterm assignment, I wanted to improve on the game that I made for the J
 
 ##### Below is a short video of my project at this point in time. If you want to play the game locally on your own computer, feel free to download the files! Just make sure you set the correct paths for the sprites and sounds in entityLoad.pde. Feel free to reach out to me if you're running into trouble!
 
-![Bunny Ball Demo Video](https://youtu.be/u8eQWEGfWyU)
+[Bunny Ball Demo Video](https://youtu.be/u8eQWEGfWyU)
 
