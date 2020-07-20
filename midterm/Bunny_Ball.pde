@@ -1,8 +1,7 @@
 /*
- This is a game where you're playing dodgeball with bunnies! Except you're the only one throwing balls
- and if you touch the bunnies you instantly lose (at least in this version)! If you manage to hit all the bunnies 
- successfully, you'll advance to the next stage and the difficulty will increase. Try to survive the longest and 
- get the highest score!
+ This is a game where you're playing dodgeball with bunnies! Try and dodge the bunnies wandering around the stage while also
+ dodging any balls that they throw at you. Touching a bunny or getting hit by a ball will cause you to lose health. When you
+ reach 0 health (or get hit 4 times) the game will end. Try to get the highest score you can!
  
  IF YOU'RE PLAYING THIS ON YOUR OWN COMPUTER, READ THIS:
  - Because this game loads in files from the menu, sprite, and sounds folders that were uploaded to github, you'll need to
