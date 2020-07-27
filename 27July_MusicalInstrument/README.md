@@ -10,7 +10,7 @@
 
 #### Problems (if any) and how you overcame them:
 
-* One problem that I had was that my blue button wasn't working. All of the other buttons would play sounds from the piezo but the blue button wouldn't! It was a really weird problem because the circuit was working just fine (the blue light came on which connected the circuit) and when I tried other input pins and even replacing the button (I switched the blue button and the green button) it still wouldn't work! After checking all the code multiple times for a potential bug and racking my brain over this problem, I reset the Arduino IDE and that suddenly fixed it. Note to future self: if there seems to be a bug and you can't find the bug, try resetting the IDE.
+* One problem that I had was that my blue button wasn't working. All of the other buttons would play sounds from the piezo but the blue button wouldn't! It was a really weird problem because the circuit was working just fine (the blue light came on which connected the circuit) and when I tried other input pins and even replacing the button (I switched the blue button and the green button) it still wouldn't work! After checking all the code multiple times for a potential bug and racking my brain over this problem, I reset the Arduino IDE, reuploaded my code onto the arduino again, and that suddenly fixed it. Note to future self: if there seems to be a bug and you can't find the bug, try resetting the IDE and reuploading.
 
 #### Schematic:
 
