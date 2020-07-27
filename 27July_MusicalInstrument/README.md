@@ -14,16 +14,20 @@
 
 #### Schematic:
 
+* Note: I added a 330 ohm resistor to the piezo circuit because it was really loud. This isn't necessary and you can see in the video that I removed it in order to get better sound.
+
 ![](schematic.jpg)
 
 #### Link to short video of instrument being played
 
-![Instrument demo](videp.mp4)
+![Instrument demo](video.mp4)
 
-#### Photograph of instrument
+#### Photograph of instrument:
+
 
 ![](musical_instrument.jpg)
 
-#### Closeup of electronics
+#### Closeup of electronics:
+
 
 ![](close_up_of_electronics.jpg)
