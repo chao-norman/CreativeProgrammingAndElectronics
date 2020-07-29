@@ -16,7 +16,8 @@
  The game takes a little while to load (~5-10 seconds or so) due to how Processing loads sounds from your computer. Please
  give it some time to boot to the menu screen! :)
  
- I used the Graph example from arduino as a refernece to arduino input.
+ I used the Graph example from arduino as a refernece to arduino input. The lights progress from red to yellow to green,
+ and when the light hits green you're ready to press the button for a powerup!
  */
 
 import processing.sound.*;
@@ -32,6 +33,7 @@ float playerHeight = 55;
 float playerHealth = 0;
 float playerDamageBuffer = 60;
 float playerSpd;
+float playerInvincible = 0;
 int currSprite; // decides next sprite in sprite array to display
 PImage[] playerSprite = new PImage[2]; // sprite array for animated characters
 
@@ -41,6 +43,7 @@ float enemyHeight = 70;
 int enemyNum;
 int enemyHit;
 float enemySpd;
+float enemyBallSpd = 10;
 // float enemyBallSpd = 5; // shoot ball at player direction, without ballDir variable
 PImage[] bunnySprite = new PImage[4];
 PImage[] throwerBunnySprite = new PImage[4];
@@ -139,12 +142,14 @@ void draw() {
       // take inByte input from arduino button to activate matrix mode
       if (inByte != 0 && matrixState == 2) {
         print("MATRIX MODE");
-        matrixTimer = 240;
+        print("\n");
+        matrixTimer = 300;
         matrixState = 0;
       }
 
       // change settings for enemy and player entities to enable matrix mode
       activateMatrixMode();
+
       if (matrixTimer > 0) {
         matrixTimer -= 1;
       }

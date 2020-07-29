@@ -50,7 +50,7 @@ void loadDefaultSettings() {
 
 // update matrix state as the game is being played
 void updateMatrixState() {
-  if (frameCount % 349 == 0 && matrixState < 2) {
+  if (frameCount % 360 == 0 && matrixState < 2) {
     matrixState += 1;
   }
 }
@@ -62,14 +62,16 @@ void activateMatrixMode() {
     ballStock = 10;
     ballReloadTimer = 5;
     ballRefreshTimer = 10;
-    enemySpd /= 2;
+    playerInvincible = 1;
+    enemySpd /= 4;
     playerSpd *= 2;
-  } else {
+  } else if (matrixTimer == 1) {
     ballSpd = 10;
     ballStock = 5;
     ballReloadTimer = 60;
     ballRefreshTimer = 120;
-    enemySpd *= 2;
+    playerInvincible = 0;
+    enemySpd *= 4;
     playerSpd /= 2;
   }
 }

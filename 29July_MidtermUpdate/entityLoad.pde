@@ -71,9 +71,9 @@ void loadPlayerBall() {
 }
 
 // Load enemy ball to be thrown in direction of the player
-void loadEnemyBall(float bunnyX, float bunnyY, Bunny b) {
+void loadEnemyBall(float bunnyX, float bunnyY, Bunny b, float enemyBallSpd) {
   ballThrowSound.play(1.5, 0.5);
-  Ball ball = new Ball(bunnyX, bunnyY, ballWidth, ballHeight, ballSpd, ballDir, "throwerBunny", b);
+  Ball ball = new Ball(bunnyX, bunnyY, ballWidth, ballHeight, enemyBallSpd, ballDir, "throwerBunny", b);
   enemyBalls.add(ball);
 }
 

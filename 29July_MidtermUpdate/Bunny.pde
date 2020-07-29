@@ -64,7 +64,7 @@ class Bunny {
 
     // if bunny is a thrower bunny, throw ball at random interval specified in constructor
     if (throwerBunny == true && frameCount % randomShooterInterval == 0) {
-      loadEnemyBall(bunnyX, bunnyY, this);
+      loadEnemyBall(bunnyX, bunnyY, this, enemyBallSpd);
     }
 
     bunnyDamageBuffer--;

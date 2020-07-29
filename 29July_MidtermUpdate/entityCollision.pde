@@ -18,7 +18,7 @@ void checkCollision() {
 
     // if all of these conditions are true, player is touching bunny
     if (topLeftCollision && topRightCollision && bottomLeftCollision && bottomRightCollision) {
-      if (playerDamageBuffer == 0) {
+      if (playerDamageBuffer == 0 && playerInvincible == 0) {
         updatePlayerHealth();
       }
     }
@@ -55,7 +55,7 @@ void checkCollision() {
 
     // if all of these conditions are true, player has been hit with the ball
     if (topLeftBallHit && topRightBallHit && bottomLeftBallHit && bottomRightBallHit 
-      && playerDamageBuffer == 0) {
+      && playerDamageBuffer == 0 && playerInvincible == 0) {
       updatePlayerHealth();
     }
   }
