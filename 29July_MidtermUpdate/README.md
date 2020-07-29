@@ -2,9 +2,9 @@
 
 #### Description of Project:
 
-* My update displays an LED "stoplight" output on the arduino and when the light hits green, it means that you have a powerup available in my midterm game "Bunny Ball". This powerup increases your player speed, your ball speed, the number of balls you have, and how quickly you reload. It also lowers the speed of all enemies in the proceeding rounds, as long as you clear the current stage in time! I call this power up "Matrix Mode". 
+* My update displays an LED "stoplight" output on the arduino and when the light hits green, it means that you have a powerup available in my midterm game "Bunny Ball". This powerup increases your player speed, your ball speed, the number of balls you have, how quickly you reload, and also gives your character a brief moment of invincibility for really tight situations! It also lowers the speed of all enemies in the proceeding round, as long as you clear the current stage in time! I call this power up "Matrix Mode". 
 
-* New Arduino .ino file is named arduino_powerup.ino, and must be ran before running Bunny_Ball.pde. You still need to change your paths for all the sprites, menu icons, and sound files as well if you want to run the game on your own computer! Please change the paths in entityLoad.pde and the arduino path index in Bunny_Ball.pde.
+* New Arduino .ino file is named arduino_powerup.ino, and MUST BE RAN BEFORE running Bunny_Ball.pde. You still need to change your paths for all the sprites, menu icons, and sound files as well if you want to run the game on your own computer! Please change the paths in entityLoad.pde and the arduino path index in Bunny_Ball.pde.
 
 #### Anything clever or tricky:
 
