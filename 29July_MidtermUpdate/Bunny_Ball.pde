@@ -160,6 +160,8 @@ void draw() {
       // writes power-up state to Arduino to display correct LED
       writeToArduinoLed();
 
+
+
       // play BGM
       if (gameMusicPlaying == false) {
         menuMusic.stop();

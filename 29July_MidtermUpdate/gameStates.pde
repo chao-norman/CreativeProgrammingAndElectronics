@@ -57,7 +57,7 @@ void updateMatrixState() {
 
 // activates matrix mode if button was pressed on arduino
 void activateMatrixMode() {
-  if (matrixTimer == 240) {
+  if (matrixTimer == 300) {
     ballSpd = 20;
     ballStock = 10;
     ballReloadTimer = 5;
@@ -65,6 +65,8 @@ void activateMatrixMode() {
     playerInvincible = 1;
     enemySpd /= 4;
     playerSpd *= 2;
+    gameMusic.stop();
+    gameMusic.loop(1.5, 0.03);
   } else if (matrixTimer == 1) {
     ballSpd = 10;
     ballStock = 5;
@@ -73,5 +75,7 @@ void activateMatrixMode() {
     playerInvincible = 0;
     enemySpd *= 4;
     playerSpd /= 2;
+    gameMusic.stop();
+    gameMusic.loop(0.9, 0.03);
   }
 }
