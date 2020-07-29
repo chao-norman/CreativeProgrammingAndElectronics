@@ -14,7 +14,7 @@
 
 #### Schematic:
 
-![](schematic.jpg)
+![](Schematic.jpg)
 
 
 #### Photograph of arduino:
