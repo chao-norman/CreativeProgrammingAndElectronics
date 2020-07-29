@@ -33,4 +33,4 @@
 #### Video:
 
 
-![Click here to watch video](https://www.youtube.com/watch?v=3-5gmbRIMyc&feature=youtu.be)
+[![Click here to watch video](https://img.youtube.com/vi/u8eQWEGfWyU/0.jpg)](https://www.youtube.com/watch?v=3-5gmbRIMyc&feature=youtu.be)
