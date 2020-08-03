@@ -10,8 +10,8 @@
 
 - I would like to use as many different input modules as I can to make the game feel like a sky fighter game, since planes have so many different buttons and input devices in their cockpits. 
 
-- I'm hoping to use multiple switches, motors, the LCD display, piezo buzzer, lights, potentiometer, slide switch, and potentially more if I can fit it on the bread board efficiently. I'd like the game to be as interactive as possible in both receiving input from the arduino and sending output back to the LCD display, lights, and the piezo buzzer on the arduino. 
+- I'm hoping to use multiple switches, motors, the LCD display, distance sensor, piezo buzzer, lights, potentiometer, slide switch, and potentially more if I can fit it on the bread board efficiently. I'd like the game to be as interactive as possible in both receiving input from the arduino and sending output back to the LCD display, lights, and the piezo buzzer on the arduino. 
 
 #### Practicality:
 
-- I'm not sure how practical this project will be or how intense it will be to create just yet. When thinking of the design, it sounds doable in my head but I'm already foreseeing many problems that I'll run into during development. 
+- I'm not sure how practical this project will be or how intense it will be to create just yet. When thinking of the design, it sounds doable in my head but I'm already foreseeing many problems that I'll run into during development. Nonetheless, I'll give it a shot and adjust accordingly.  
