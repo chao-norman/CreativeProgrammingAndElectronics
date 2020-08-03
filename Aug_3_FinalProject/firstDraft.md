@@ -4,7 +4,7 @@
 
 - I want to make a game in Processing that is completely controlled by arduino input. I really enjoyed the game project that we were assigned for our midterm, so I wanted to pursue a game development project once again but with its core emphasis on the arduino. 
 
-- With this game, the theme I'm going for is a sky fighter kind of game. Imagine the ![Starfox](https://www.youtube.com/watch?v=FU-a6ZkF0io) series if you're unsure of what this genre looks like! Also here is a demo of a different ![game](https://www.youtube.com/watch?v=lNQ6euqQA80) inspired by Starfox that I thought was really cool.
+- With this game, the theme I'm going for is a sky fighter kind of game. Imagine the [Starfox](https://www.youtube.com/watch?v=FU-a6ZkF0io) series if you're unsure of what this genre looks like! Also here is a demo of a different [game](https://www.youtube.com/watch?v=lNQ6euqQA80) inspired by Starfox that I thought was really cool.
 
 #### Arduino functionality:
 
