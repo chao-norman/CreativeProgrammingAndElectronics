@@ -1,4 +1,4 @@
-#### Final Project Proposal (revised)
+# Final Project Proposal (revised)
 
 ##### Description of project in detail:
 
