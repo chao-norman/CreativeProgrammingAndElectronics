@@ -36,4 +36,4 @@
 #### Video:
 
 
-[![Click here to watch video](https://img.youtu.be/RAGizHDzJ70.jpg)](https://youtu.be/RAGizHDzJ70)
+[![Click here to watch video](https://img.youtube.com/vi/RAGizHDzJ70/0.jpg)](https://youtu.be/RAGizHDzJ70)
