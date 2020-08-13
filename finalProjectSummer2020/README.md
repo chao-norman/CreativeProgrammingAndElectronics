@@ -3,7 +3,7 @@
 
 #### Description of Project:
 
-* My final project is a game/interactive experience called "Sunset Cruise". It's a relaxing, late night driving experience, where you drive a car on an empty stretch of the highway to chill lofi music. During the drive, you can choose between 7 different songs from the radio and you can cycle between them as you wish. All of the art is drawn with code in Processing (except for the title screen logo) and you control the car and the radio using Arduino input. 
+* My final project is a game/interactive experience called "Sunset Cruise". It's a relaxing, late night driving experience, where you drive a car on an empty stretch of the highway to chill, lo-fi hip hop music. During the drive, you can choose between 7 different songs from the radio and you can cycle between them as you wish. All of the art is drawn with code in Processing (except for the title screen logo, the play button, and the car) and you control the car and the radio using Arduino input.
 
 #### Clever and/or Tricky Implementations:
 
