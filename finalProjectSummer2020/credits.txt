@@ -1,0 +1,23 @@
+This text file includes credits for the resources I used that aren't code. 
+Every code reference I used is credited in the code itself in comments above that particular referenced code. 
+
+1. Title logo maker
+https://m.photofunia.com/effects/retro-wave
+
+2. Play Button
+https://adwitr.itch.io/button-asset-pack?download
+
+3. Car Assets
+https://chasersgaming.itch.io/racing-asset-touring-car-nes-psuedo
+
+4. Pixel art scaler to remove blur when upscaling assets
+https://lospec.com/pixel-art-scaler/
+
+5. Music:
+- Yutaka Hirasaka: bittersweet (https://www.youtube.com/watch?v=AJ_9VHYEcxo)
+- Yutaka Hirasaka: Relation (https://www.youtube.com/watch?v=LlJ5pf9KhG8)
+- Yutaka Hirasaka: Little by Little (https://www.youtube.com/watch?v=z1WWCNoLBR0)
+- Philanthrope x Sleepy Fish: Away with the Fairies (https://www.youtube.com/watch?v=O4Q8EudQWRo&list=PL2zhOL1HY6vhHBslSn2K58G-s8uWEMKu1&index=14)
+- Clap Cotton: Vinho Verde (https://www.youtube.com/watch?v=HrwN459vxP4)
+- L'indecis: Keep On (https://www.youtube.com/watch?v=dQRQSBiWgbE)
+- goosetaf x Anbuu x Philanthrope: Last Night ft. Lead Major (https://www.youtube.com/watch?v=4RixEP3vuo8)
